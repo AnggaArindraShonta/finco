@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
+options: "37e89e850442ee1a9fbf509cab552733e128f0adba200dcbc0eebce6876aeda7"
+build_start_time: [1672833721, 489907979]
+build_end_time: [1672833731, 322051048]
+inputs:
+  "/Users/kcb/Documents/DATA/FlutterProjects/finco_projects/financial_control/macos/Flutter/GeneratedPluginRegistrant.swift": [1672833603, 188530921]
+  "/Users/kcb/Documents/DATA/FlutterProjects/finco_projects/financial_control/macos/Runner/AppDelegate.swift": [1669220596, 0]
+  "/Users/kcb/Documents/DATA/FlutterProjects/finco_projects/financial_control/macos/Runner/MainFlutterWindow.swift": [1669220596, 0]
